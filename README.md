@@ -1,2 +1,3 @@
 ## Hi there 👋
-**About me:**I'm currently studying.
+About me:I'm currently studying.
+___________________________
